@@ -1,3 +1,5 @@
 GitHub is an online hosting platform for version control
 
+I have added an additional sentence to this file 
+
 Add a conclusion to GitHub.txt
